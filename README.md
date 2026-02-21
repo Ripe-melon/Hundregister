@@ -1,6 +1,6 @@
 # Hundregister - programmeringsuppgift i Prog 1
 
-En liten konsolapplikation i Java där man kan registrera **hundar** och **ägare**, lista dem, samt koppla en hund till en ägare. Mest för skojs skull (och som övning i klasser, samlingar och sortering).
+En liten konsolapplikation i Java där man kan registrera **hundar** och **ägare**, lista dem, samt koppla en hund till en ägare.
 
 ## Körning
 
